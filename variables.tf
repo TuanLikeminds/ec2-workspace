@@ -1,4 +1,3 @@
-variable "ami" {
-}
+variable "ami" {}
 
-variable "instance_type: {}
+variable "instance_type" {}
